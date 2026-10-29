@@ -111,13 +111,13 @@ I have worked with or explored software requirements and concepts across these d
 <!-- Contribution graph image from a third-party service. -->
 <div align="center">
 
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true)
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=Tonistark92&hide_border=true)
 
 </div>
 
 ## 📫 Connect With Me
 
-- **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/Tonistark92)
 - **LinkedIn:** Add your LinkedIn profile URL here.
 - **Email:** Add a public contact email here if you want recruiters to reach you.
 
