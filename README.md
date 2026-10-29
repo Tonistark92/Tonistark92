@@ -14,8 +14,8 @@
 
 Building reliable, secure, and maintainable software — from polished Android experiences to backend services.
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Tonistark92?label=Followers&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=Tonistark92&style=for-the-badge&color=blueviolet)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -98,11 +98,11 @@ I have worked with or explored software requirements and concepts across these d
 <!-- These cards are provided by third-party services and may occasionally be unavailable. -->
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tonistark92&show_icons=true&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonistark92&layout=compact&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Tonistark92&hide_border=true)
 
 </div>
 
