@@ -1,16 +1,22 @@
 <!-- GitHub Profile README for Tonistark92 -->
 <div align="center">
 
-# Hi, I'm Islam Hany Riyad 👋
+<h1>Hi, I'm Islam Hany Riyad 👋</h1>
 
-### Android Developer · Kotlin & Java · Jetpack Compose · Spring Boot
+<h3>Android Developer · Kotlin & Java · Jetpack Compose · Spring Boot</h3>
 
-Building reliable, secure, and maintainable software — from polished Android experiences to backend services.
-
-[![GitHub followers](https://img.shields.io/github/followers/Tonistark92?label=Followers&style=for-the-badge)](https://github.com/Tonistark92?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=Tonistark92&style=for-the-badge&color=blueviolet)](https://github.com/Tonistark92)
+<p>
+  Building reliable, secure, and maintainable software — from polished Android experiences to backend services.
+</p>
 
 </div>
+
+   <img align="right" width="270" src="https://raw.githubusercontent.com/Tonistark92/Tonistark92/main/assets/code-coding.gif" alt="coding animation">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Kotlin+%26+Jetpack+Compose;Building+Scalable+Android+Apps;Always+Learning+New+Things&font=Fira+Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&size=22"
+       alt="Typing SVG">
+</p>
+
 
 ---
 
@@ -79,7 +85,16 @@ Building reliable, secure, and maintainable software — from polished Android e
 - **AOSP & Android Internals** — source-tree setup and learning how Android works below the application layer.
 - **Spring Boot** — backend development and REST API skills.
 
-> Add links to public repositories for projects you are allowed to share. Do not publish employer code, secrets, API keys, or private project details. Describe tools as skills only to the level you can confidently discuss.
+
+
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?lines=I'm;NOT;OK;Anymore!&font=Fira+Code&center=true&width=440&height=45&color=00F700&vCenter=true&size=22&pause=700"
+    alt="I'm NOT OK Anymore!"
+  />
+</p>
+
 
 ## 📊 GitHub Stats
 
@@ -100,13 +115,15 @@ Building reliable, secure, and maintainable software — from polished Android e
 
 ![GitHub Contribution Calendar](https://contribkit.app/user/Tonistark92.svg?palette=github&shape=rounded&background=transparent)
 
+<img align="right" width="270" src="https://raw.githubusercontent.com/Tonistark92/Tonistark92/main/assets/code-coding.gif" alt="coding animation">
+
 </div>
 
 ## 📫 Connect With Me
 
 - **GitHub:** [@Tonistark92](https://github.com/Tonistark92)
-- **LinkedIn:** Add your LinkedIn profile URL here.
-- **Email:** Add a public contact email here if you want recruiters to reach you.
+- **LinkedIn:** (https://www.linkedin.com/in/islam-hany-ih/).
+- **Email:** hanyislam270@gmail.com.
 
 ---
 
