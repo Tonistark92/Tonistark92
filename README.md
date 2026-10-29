@@ -1,11 +1,4 @@
-<!--
-  GitHub Profile README
-  1. Create a PUBLIC repository whose name exactly matches your GitHub username.
-  2. Add this file as README.md.
-  3. Replace EVERY occurrence of YOUR_GITHUB_USERNAME below with your username.
-  4. Keep or remove any stats cards you prefer. Third-party stats services can occasionally be unavailable.
--->
-
+<!-- GitHub Profile README for Tonistark92 -->
 <div align="center">
 
 # Hi, I'm Islam Hany Riyad 👋
@@ -14,8 +7,8 @@
 
 Building reliable, secure, and maintainable software — from polished Android experiences to backend services.
 
-[![GitHub followers](https://img.shields.io/github/followers/Tonistark92?label=Followers&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=Tonistark92&style=for-the-badge&color=blueviolet)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Tonistark92?label=Followers&style=for-the-badge)](https://github.com/Tonistark92?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=Tonistark92&style=for-the-badge&color=blueviolet)](https://github.com/Tonistark92)
 
 </div>
 
@@ -26,7 +19,7 @@ Building reliable, secure, and maintainable software — from polished Android e
 - 📱 Android developer focused on **Kotlin, Java, and Jetpack Compose**.
 - 🧱 Interested in clean, modular, scalable app architecture and maintainable codebases.
 - ☕ Exploring backend development with **Spring Boot** and RESTful APIs.
-- ⚙️ Working with build automation, testing, release pipelines, and CI/CD.
+- ⚙️ Focused on build automation, testing, release pipelines, and CI/CD.
 - 🔐 Interested in mobile security, secure networking, authentication, and production reliability.
 - 🐧 Studying **AOSP, Android internals, and Android system engineering**.
 - 🗺️ Exploring geospatial concepts and location-based applications.
@@ -41,7 +34,7 @@ Building reliable, secure, and maintainable software — from polished Android e
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### Architecture & Android Libraries
-![MVVM](https://img.shields.io/badge/Architecture-MVVM%20%7C%20Clean-59666C?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture%20%7C%20MVVM-59666C?style=flat-square)
 ![Hilt](https://img.shields.io/badge/DI-Hilt-34A853?style=flat-square)
 ![Retrofit](https://img.shields.io/badge/Networking-Retrofit-2C7A7B?style=flat-square)
 ![Room](https://img.shields.io/badge/Database-Room-6DB33F?style=flat-square)
@@ -58,44 +51,39 @@ Building reliable, secure, and maintainable software — from polished Android e
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Other areas:** Unit and instrumentation testing · Android Lint · Detekt · ktlint · APK/AAB release workflows · signing and build variants · Firebase App Distribution · monitoring and crash reporting · performance profiling · network security.
-
-> Keep only badges for tools you can comfortably discuss in an interview. The presence of a badge is not a claim of expert-level proficiency.
+**Other areas:** Unit and instrumentation testing · linting and code quality · build variants · signing and release workflows · Firebase App Distribution · crash reporting · performance profiling · network security.
 
 ## 🧭 Business Domains
 
-I have worked with or explored software requirements and concepts across these domains:
-
-- **Education Technology (EdTech / LMS):** authentication, course and diploma access, learning content, video playback, and student experiences.
-- **FinTech & Digital Wallets:** wallet flows, transfers, payments, authentication, and payment state handling.
-- **E-commerce & Food Delivery:** customer-facing shopping and ordering experiences.
+- **FinTech & Digital Payments:** digital wallet experiences, payment flows, payment links, Request-to-Pay (R2P), SEPA concepts, and payment-state handling.
+- **CRM & Residential Compound Management:** resident-facing CRM workflows for a compound-management app, including bills, service requests, maintenance issues, announcements, and resident communications.
+- **Education Technology (EdTech / LMS):** learning-management workflows, course and diploma access, student experiences, and learning content.
+- **Media & Custom Video Playback:** custom media-player experiences, playback controls, and media playback integration in Android apps.
+- **E-commerce & Food Delivery:** customer-facing shopping, ordering, and delivery experiences.
 - **Facility Management:** operational workflows and user experience for facility-management applications.
-- **Payment Infrastructure:** payment links, Request-to-Pay (R2P), SEPA concepts, and payment state machines.
 - **Geospatial & Location-Based Services:** coordinates, distance calculations, geospatial indexes, PostGIS, and H3 concepts.
 - **Smart Home & IoT:** connected-device concepts, including smart-lock projects.
 - **Digital Publishing:** EPUB parsing and e-book reader experiences.
-- **Scheduling & Reservations:** university room/hall booking and scheduling workflows.
+- **Scheduling & Reservations:** university room and hall booking workflows.
 - **Automotive & Embedded Android:** Android Automotive OS (AAOS), AOSP, and Android system-level concepts.
 
 ## 🚀 Projects & Areas of Focus
 
 - **KAITECH LMS** — modular Android application architecture and learning-management workflows.
-- **Wallet / FinTech applications** — exploring mobile wallet and payment experiences.
-- **Android security** — Keystore, secure networking, Play Integrity, passkeys, and protecting sensitive data.
-- **CI/CD for Android** — linting, tests, coverage, build variants, signing, release automation, and crash monitoring.
-- **AOSP & Android internals** — source-tree setup and learning how Android works below the application layer.
-- **Geospatial learning** — building a foundation for location-aware products using spatial data concepts.
-- **Spring Boot** — backend development and REST API skills; add a project link here once you have a public repository to showcase.
+- **I Compound CRM** — resident-focused compound management covering bills, maintenance/service requests, issue reporting, announcements, and resident communications.
+- **Custom Android Media Player** — custom playback experience and media-player integration.
+- **Android Security** — Keystore, secure networking, Play Integrity, passkeys, and protecting sensitive data.
+- **Android CI/CD** — linting, tests, coverage, build variants, signing, release automation, and crash monitoring.
+- **AOSP & Android Internals** — source-tree setup and learning how Android works below the application layer.
+- **Spring Boot** — backend development and REST API skills.
 
-> Add links to the actual repositories for projects you are allowed to share. Do not publish employer code, secrets, API keys, or private project details.
+> Add links to public repositories for projects you are allowed to share. Do not publish employer code, secrets, API keys, or private project details. Describe tools as skills only to the level you can confidently discuss.
 
 ## 📊 GitHub Stats
 
-<!-- These cards are provided by third-party services and may occasionally be unavailable. -->
+<!-- Third-party image services may occasionally be unavailable or rate-limited. -->
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tonistark92&show_icons=true&hide_border=true&rank_icon=github)
@@ -108,7 +96,6 @@ I have worked with or explored software requirements and concepts across these d
 
 ## 📈 Contribution Activity
 
-<!-- Contribution graph image from a third-party service. -->
 <div align="center">
 
 ![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=Tonistark92&hide_border=true)
@@ -117,7 +104,7 @@ I have worked with or explored software requirements and concepts across these d
 
 ## 📫 Connect With Me
 
-- **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/Tonistark92)
+- **GitHub:** [@Tonistark92](https://github.com/Tonistark92)
 - **LinkedIn:** Add your LinkedIn profile URL here.
 - **Email:** Add a public contact email here if you want recruiters to reach you.
 
