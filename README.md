@@ -86,9 +86,9 @@ Building reliable, secure, and maintainable software — from polished Android e
 <!-- Third-party image services may occasionally be unavailable or rate-limited. -->
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tonistark92&show_icons=true&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tonistark92&show_icons=true&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonistark92&layout=compact&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Tonistark92&layout=compact&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tonistark92&hide_border=true)
 
@@ -98,7 +98,7 @@ Building reliable, secure, and maintainable software — from polished Android e
 
 <div align="center">
 
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=Tonistark92&hide_border=true)
+![GitHub Contribution Calendar](https://contribkit.app/user/Tonistark92.svg?palette=github&shape=rounded&background=transparent)
 
 </div>
 
