@@ -107,15 +107,12 @@
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Tonistark92&layout=compact&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tonistark92&hide_border=true)
 
 </div>
 
-## 📈 Contribution Activity
 
 <div align="center">
 
-![GitHub Contribution Calendar](https://contribkit.app/user/Tonistark92.svg?palette=github&shape=rounded&background=transparent)
 
 <img align="right" width="270" src="https://raw.githubusercontent.com/Tonistark92/Tonistark92/main/assets/code-coding.gif" alt="coding animation">
 
