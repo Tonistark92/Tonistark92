@@ -11,7 +11,6 @@
 
 </div>
 
-   <img align="right" width="270" src="https://raw.githubusercontent.com/Tonistark92/Tonistark92/main/assets/code-coding.gif" alt="coding animation">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Kotlin+%26+Jetpack+Compose;Building+Scalable+Android+Apps;Always+Learning+New+Things&font=Fira+Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&size=22"
        alt="Typing SVG">
@@ -100,6 +99,9 @@
 
 <!-- Third-party image services may occasionally be unavailable or rate-limited. -->
 <div align="center">
+
+<img align="right" width="270" src="https://raw.githubusercontent.com/Tonistark92/Tonistark92/main/code-coding.gif" alt="coding animation">
+
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tonistark92&show_icons=true&hide_border=true&rank_icon=github)
 
